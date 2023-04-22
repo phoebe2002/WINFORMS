@@ -1,0 +1,17 @@
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\bin\Debug\net6.0-windows\WinFormsGallery.exe
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\bin\Debug\net6.0-windows\WinFormsGallery.deps.json
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\bin\Debug\net6.0-windows\WinFormsGallery.runtimeconfig.json
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\bin\Debug\net6.0-windows\WinFormsGallery.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\bin\Debug\net6.0-windows\WinFormsGallery.pdb
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.csproj.AssemblyReference.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.Form1.resources
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.csproj.GenerateResource.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.AssemblyInfoInputs.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.AssemblyInfo.cs
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.csproj.CoreCompileInputs.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\refint\WinFormsGallery.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.pdb
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\WinFormsGallery.genruntimeconfig.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGallery\obj\Debug\net6.0-windows\ref\WinFormsGallery.dll
