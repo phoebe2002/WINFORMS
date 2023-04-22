@@ -1,0 +1,17 @@
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\bin\Debug\net6.0-windows\WinForms_Tutorial.exe
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\bin\Debug\net6.0-windows\WinForms_Tutorial.deps.json
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\bin\Debug\net6.0-windows\WinForms_Tutorial.runtimeconfig.json
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\bin\Debug\net6.0-windows\WinForms_Tutorial.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\bin\Debug\net6.0-windows\WinForms_Tutorial.pdb
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.csproj.AssemblyReference.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.Form1.resources
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.csproj.GenerateResource.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.AssemblyInfoInputs.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.AssemblyInfo.cs
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\refint\WinForms_Tutorial.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.pdb
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\WinForms_Tutorial.genruntimeconfig.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinForms_Tutorial\obj\Debug\net6.0-windows\ref\WinForms_Tutorial.dll
