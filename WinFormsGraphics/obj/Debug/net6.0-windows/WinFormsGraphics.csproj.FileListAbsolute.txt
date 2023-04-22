@@ -1,0 +1,17 @@
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\bin\Debug\net6.0-windows\WinFormsGraphics.exe
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\bin\Debug\net6.0-windows\WinFormsGraphics.deps.json
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\bin\Debug\net6.0-windows\WinFormsGraphics.runtimeconfig.json
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\bin\Debug\net6.0-windows\WinFormsGraphics.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\bin\Debug\net6.0-windows\WinFormsGraphics.pdb
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.csproj.AssemblyReference.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.Form1.resources
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.csproj.GenerateResource.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.AssemblyInfoInputs.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.AssemblyInfo.cs
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.csproj.CoreCompileInputs.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\refint\WinFormsGraphics.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.pdb
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\WinFormsGraphics.genruntimeconfig.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsGraphics\obj\Debug\net6.0-windows\ref\WinFormsGraphics.dll
