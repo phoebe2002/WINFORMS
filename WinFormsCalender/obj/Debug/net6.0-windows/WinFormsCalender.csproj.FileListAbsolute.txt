@@ -1,0 +1,17 @@
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\bin\Debug\net6.0-windows\WinFormsCalender.exe
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\bin\Debug\net6.0-windows\WinFormsCalender.deps.json
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\bin\Debug\net6.0-windows\WinFormsCalender.runtimeconfig.json
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\bin\Debug\net6.0-windows\WinFormsCalender.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\bin\Debug\net6.0-windows\WinFormsCalender.pdb
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.csproj.AssemblyReference.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.Form1.resources
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.csproj.GenerateResource.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.AssemblyInfoInputs.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.AssemblyInfo.cs
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.csproj.CoreCompileInputs.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\refint\WinFormsCalender.dll
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.pdb
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\WinFormsCalender.genruntimeconfig.cache
+C:\Users\tsits\source\repos\WinForms_Tutorial\WinFormsCalender\obj\Debug\net6.0-windows\ref\WinFormsCalender.dll
